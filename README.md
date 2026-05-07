@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://github.com/xingmioka99/xingmioka99/raw/main/download.gif " alt="Profile Header" width="100%" style="border-radius: 12px;"/>
+  <img src="https://github.com/xingmioka99/xingmioka99/raw/main/https___64_media.tumblr.com_cad6d25d7e859f91d586bc08b93d0680_6138c75039bd424c-a7_s500x750_2596a82fa0e62ef42a8ab29668be6da4d9d3fb28.gif " alt="Profile Header" width="100%" style="border-radius: 12px;"/>
 </div>
 
 <h1 align="center">𝖜𝖊𝖑𝖈𝖔𝖒𝖊</h1>
