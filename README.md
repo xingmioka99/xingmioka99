@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">𝖜𝖊𝖑𝖈𝖔𝖒𝖊</h1>
-<h3 align="center">✧·.·°★ ·.·✧   I am Se Nita · ✧·.·°★ ·.·✧</h3>
+<h3 align="center">✧·.·° Oeng Chheangsing  · ✧·.·°</h3>
 
 
 <p align="center">
