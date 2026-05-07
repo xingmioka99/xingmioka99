@@ -41,7 +41,7 @@
 ## ❤️ྀི Groups
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Love-Pinterest-FF6B6B?style=flat-square&logo=pinterest&logoColor=white" />
+  <img src="https://img.shields.io/pypi/pyversions/:packageName" />
   <img src="https://img.shields.io/badge/Groups-111-6A9955?style=flat-square&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Members-905-9E42C5?style=flat-square&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=bobaurmom&label=Profile+views&color=FF6B6B&style=for-the-badge" alt="GitHub Profile Views" />
